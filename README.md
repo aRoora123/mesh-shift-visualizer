@@ -5,7 +5,7 @@ PDC Assignment 2 — 23F-0008 | Urwa Tehseen | Spring 2026
 ## Live Deployment URL
 🔗 https://stackblitz.com/edit/vitejs-vite-f9zz2blq?file=README.md
 
-## What it does
+## Working
 Simulates and visualizes circular q-shift on a 2D mesh topology.
 - Enter p (perfect square, 4–64) and q (1 to p−1)
 - See before/after Stage 1/after Stage 2 grids
