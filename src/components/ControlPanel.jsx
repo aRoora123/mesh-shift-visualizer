@@ -59,7 +59,7 @@ export function ControlPanel({ p, q, setP, setQ, onRun }) {
         <button
           onClick={validate}
           style={{
-            padding: "6px 20px",
+            padding: "7px 20px",
             background: "#3B82F6",
             color: "white",
             border: "none",
