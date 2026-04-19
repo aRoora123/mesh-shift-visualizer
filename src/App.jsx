@@ -94,7 +94,7 @@ export default function App() {
               onClick={animate}
               disabled={animating}
               style={{
-                padding: "8px 24px",
+                padding: "7px 24px",
                 background: animating ? "#9CA3AF" : "#8B5CF6",
                 color: "white",
                 border: "none",
