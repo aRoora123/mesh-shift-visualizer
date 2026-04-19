@@ -3,7 +3,7 @@
 PDC Assignment 2 — 23F-0008 | Urwa Tehseen | Spring 2026
 
 ## Live Deployment URL
-🔗 **[ADD YOUR STACKBLITZ/VERCEL URL HERE]**
+🔗 https://stackblitz.com/edit/vitejs-vite-f9zz2blq?file=README.md
 
 ## What it does
 Simulates and visualizes circular q-shift on a 2D mesh topology.
