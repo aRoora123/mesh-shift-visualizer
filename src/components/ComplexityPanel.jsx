@@ -57,7 +57,7 @@ export function ComplexityPanel({ p, q, rowShift, colShift, ringSteps, meshSteps
         );
       })}
 
-      <p style={{ fontSize: 12, color: "#059669", marginTop: 8 }}>
+      <p style={{ fontSize: 13, color: "#059669", marginTop: 8 }}>
         Mesh saves {ringSteps - meshSteps} step(s) vs ring.
       </p>
     </div>
