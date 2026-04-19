@@ -18,7 +18,7 @@ export default function MeshGrid({ data, sq, label }) {
               height: 48,
               background: "#F3F4F6",
               color: "#111",
-              borderRadius: 6,
+              borderRadius: 7,
               display: "flex",
               flexDirection: "column",
               alignItems: "center",
