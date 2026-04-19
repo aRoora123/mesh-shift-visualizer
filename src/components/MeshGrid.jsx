@@ -27,7 +27,7 @@ export default function MeshGrid({ data, sq, label }) {
               border: "1px solid #ddd",
             }}
           >
-            <span style={{ fontSize: 9, color: "#999" }}>n{i}</span>
+            <span style={{ fontSize: 10, color: "#999" }}>n{i}</span>
             <strong>{val}</strong>
           </div>
         ))}
