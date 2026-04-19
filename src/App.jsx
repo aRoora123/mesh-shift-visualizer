@@ -103,7 +103,7 @@ export default function App() {
                 fontSize: 14,
               }}
             >
-              {animating ? "Animating..." : "▶ Animate Step-by-Step"}
+              {animating ? "Animating" : "▶ Animate Step-by-Step"}
             </button>
             <p style={{ fontSize: 12, color: "#666", marginTop: 8 }}>
               {stageLabels[stage]}
